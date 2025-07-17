@@ -1,0 +1,7 @@
+name: LLZO
+rho: 5.1e3          # kg m^-3
+D: 1.0e-12          # m^2 s^-1
+sigma: 1.0e-3       # S m^-1
+kappa: 0.1          # W m^-1 K^-1
+cp: 500             # J kg^-1 K^-1
+E_modulus: 1.5e11   # Pa 
