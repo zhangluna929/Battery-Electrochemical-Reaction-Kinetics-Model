@@ -1,5 +1,0 @@
-name: Graphite
-c_max: 372000   # mol m^-3 对应 372 mAh g^-1
-rho: 2.25e3     # kg m^-3
-D_s: 1e-14      # m^2 s^-1
-sigma: 100      # S m^-1 

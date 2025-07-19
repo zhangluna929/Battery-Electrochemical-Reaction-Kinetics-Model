@@ -1,5 +1,0 @@
-name: PS43
-ionic_conductivity: 1.5e-3   # S m^-1
-cation_transference: 0.4
-rho: 1.9e3
-D: 5e-12   # m^2 s^-1 
